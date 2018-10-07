@@ -1,0 +1,22 @@
+{
+  "name": "simple_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viru9/NodeJs_API.git"
+  },
+  "author": "viraj madhushanka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "bugs": {
+    "url": "https://github.com/viru9/NodeJs_API/issues"
+  },
+  "homepage": "https://github.com/viru9/NodeJs_API#readme"
+}
